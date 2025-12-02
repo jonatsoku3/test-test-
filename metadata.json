@@ -1,0 +1,9 @@
+{
+  "name": "BunnyHelp (ต่ายช่วยด้วย)",
+  "description": "แอพพลิเคชันแจ้งเหตุฉุกเฉินและขอความช่วยเหลือผ่านชุมชน พร้อมระบบ AI วิเคราะห์สถานการณ์",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
